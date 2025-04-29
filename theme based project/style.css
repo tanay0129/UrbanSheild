@@ -1,0 +1,5 @@
+/* Custom Styles if needed */
+/* Tailwind classes already handle 90% of the work */
+body {
+  font-family: 'Poppins', 'Inter', 'Roboto', sans-serif;
+}
